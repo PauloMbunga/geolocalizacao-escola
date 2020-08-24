@@ -3,6 +3,9 @@
    "version": "1.0.0",
    "main": "index.js",
    "license": "MIT",
+   "engines": {
+      "node": "13.14.0"
+    },
    "devDependencies": {
       "@types/node": "^8.0.29",
       "ts-node": "3.3.0",
